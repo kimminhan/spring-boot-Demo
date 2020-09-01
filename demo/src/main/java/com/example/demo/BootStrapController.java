@@ -19,7 +19,7 @@ import net.sf.json.JSONObject;
 public class BootStrapController {
 	
 	
-	@RequestMapping(value="/bootMain")
+	@RequestMapping(value="/")
     public String test() {
 		
 		return "bootMain";                
