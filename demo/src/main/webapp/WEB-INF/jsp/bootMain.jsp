@@ -28,7 +28,7 @@
 	<form name="testForm" id="testForm">	
 		<div>BootMain</div>
 		<br>
-		<div>김태연 사랑해요</div>
+		<div>김태연 사랑해요!! 두번 사랑해요</div>
 	</form>
 </body>
 </html>
